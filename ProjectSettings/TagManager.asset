@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "g\xF6lge"
+  - hero
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arkaplan
+    uniqueID: 4007585041
+    locked: 0
+  - name: Zemin
+    uniqueID: 632180893
+    locked: 0
+  - name: Trail Render Karakter
+    uniqueID: 2005684199
+    locked: 0
+  - name: Karakter
+    uniqueID: 108053845
+    locked: 0
+  - name: "Karakter Partik\xFCl\xFC"
+    uniqueID: 607735503
+    locked: 0
+  - name: Canvas
+    uniqueID: 4155812177
+    locked: 0
+  - name: "En \xFCst"
+    uniqueID: 1685875281
+    locked: 0
+  - name: "EN EN \xDCST"
+    uniqueID: 437015805
+    locked: 0
